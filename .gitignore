@@ -3,7 +3,7 @@
 /.vscode
 
 # Environment files
-.env
+# .env
 .env.backup
 .env.production
 
