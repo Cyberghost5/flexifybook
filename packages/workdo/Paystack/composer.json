@@ -1,0 +1,28 @@
+{
+    "name": "workdo/paystack",
+    "description": "BookingGo SaaS Payment Gateway Addon",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "unicodeveloper/laravel-paystack": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Workdo\\Paystack\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WorkDo",
+            "email": "support@workdo.io"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Workdo\\Paystack\\Providers\\PaystackServiceProvider",
+                "Workdo\\Paystack\\Providers\\ViewComposer"
+            ]
+        }
+    }
+}

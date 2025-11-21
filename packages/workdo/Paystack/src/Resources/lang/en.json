@@ -1,0 +1,13 @@
+{
+  "Gateway": "Gateway",
+  "Payment": "Payment",
+  "Save Changes": "Save Changes",
+  "Paystack": "Paystack",
+  "Paystack Public Key": "Paystack Public Key",
+  "Paystack Secret Key": "Paystack Secret Key",
+  "Paystack is a payment service provider that allows individuals and businesses to accept payments online and receive money from any part of the world. We provide you with the tools and services needed to accept online payments from local and international customers using Mastercard, Visa, Verve Cards and bank accounts.": "Paystack is a payment service provider that allows individuals and businesses to accept payments online and receive money from any part of the world. We provide you with the tools and services needed to accept online payments from local and international customers using Mastercard, Visa, Verve Cards and bank accounts.",
+  "Paystack payment gateway": "Paystack payment gateway",
+  "These details will be used to collect subscription plan payments.Each subscription plan will have a payment button based on the below configuration.": "These details will be used to collect subscription plan payments.Each subscription plan will have a payment button based on the below configuration.",
+  "These details will be used to collect appointment payments. Each appointment will have a payment button based on the below configuration.": "These details will be used to collect appointment payments. Each appointment will have a payment button based on the below configuration.",
+  "The transaction has been failed": "The transaction has been failed"
+}
